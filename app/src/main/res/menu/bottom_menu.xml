@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_fragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/secondFragment"
+        android:title="Favourite Recipes"
+        android:icon="@drawable/ic_favourite"/>
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="My Recipes List"
+        android:icon="@drawable/ic_list"/>
+    <item
+        android:id="@+id/fourthFragment"
+        android:title="Shopping List"
+        android:icon="@drawable/ic_baseline_shopping_bag_24"/>
+    <item
+        android:id="@+id/fifthFragment"
+        android:title="About"
+        android:icon="@drawable/ic_info"/>
+</menu>

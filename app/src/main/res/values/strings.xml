@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Meal Prep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_title">Home</string>
+    <string name="meal_prep_recipes">Meal Prep Recipes</string>
+    <string name="favourite_recipes">Favourite Recipes</string>
+    <string name="my_recipes_list">My Recipes List</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="about">The app is Focused of making quick recipes\n
+\n
+Made by\n
+Akshaya V\n
+Guru Anavarhadhan\n
+Shubham Raheja\n
+Yashas Krishnamurthy</string>
+</resources>
